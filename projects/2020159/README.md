@@ -22,5 +22,5 @@
 # Παραδοτέο 4:
 Όπως έχω προαναφέρει στο 2ο Παραδοτέο η εγκατάσταση του Arch έγινε κατευθείαν σε στικάκι και ήταν ιδιαίτερα δύσκολη. Αυτήν την εβδομάδα πειραματίστηκα περαιτέρω με τις εντολές για warm up (πιο συγκεκριμένα με την lynx που πρακτικά είναι ένα command line based browser και με "variations" της wttr.in)   και θα ενημέρώσα το repository αναλόγως. Επίσης, [η εντολή που εκτέλεσα στο asciinema](https://asciinema.org/a/Vese9YbNO2yQpviMNNvht6Iw4).
 # Παραδοτέο 5:
-Προς το παρόν έχω προσθέσει το Half-Life και το Pinball Construction Set στα videogames.md και live-coding.md slides αντίστοιχα. Έχω επίσης κάνει την προσθήκη τους στα videogames.md και learning.md timeline. Περιμένω την έγκριση των pull-request μου, ενώ για τώρα η μόνη μου αμφιβολία είναι οι κατηγορίες του slide και timeline για το Pinball Construction Set.
+Προς το παρόν έχω προσθέσει το Half-Life και το Pinball Construction Set στα videogames.md και live-coding.md slides αντίστοιχα. Έχω επίσης κάνει την προσθήκη τους στα videogames.md και learning.md timeline. Η μόνη μου αμφιβολία τώρα, είναι οι κατηγορίες του slide και timeline για το Pinball Construction Set (ίσως χρειαστεί να φτιάξω μια κανούργια κατηγορία μόνο γι' αυτό).
 # Παραδοτέο 6:
